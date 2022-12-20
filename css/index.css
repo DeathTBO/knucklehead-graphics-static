@@ -1,0 +1,25 @@
+body
+{
+	background-image: url("../images/Background.jpg") !important;
+	background-repeat: no-repeat !important;
+	background-position: 50% 50% !important;
+	background-size: 100% !important;
+	background-color: transparent !important;
+	background: inherit;
+	background-color: inherit;
+	background-position-x: inherit;
+	background-position-y: inherit;
+	background-repeat: inherit;
+	background-image: inherit;
+	background-size: inherit;
+}
+
+main
+{
+	text-align: center;
+} 
+
+h1
+{
+	font-size: 3em;
+}
